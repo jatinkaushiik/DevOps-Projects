@@ -1,7 +1,6 @@
 # DevOps-Projects 
 # Play with Linux for Cloud & DevOps Engineers
 
-![linux](https://imgur.com/a/WHspSg9)
 
 ***New to Linux? Below assignment covering all the required basics of Linux to be familiar for an DevOps engineer.***
 
