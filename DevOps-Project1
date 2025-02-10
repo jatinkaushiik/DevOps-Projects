@@ -15,7 +15,7 @@ Linux User Management, Permissions, Directory Structure, File Systems, File Mana
 ## Pre-Requisites
 
 Login to AWS cloud and create Linux based EC2 instance to complete the below assignment.
-
+...
 ## Deployment
 
 1. Login to the server as super user and perform below
